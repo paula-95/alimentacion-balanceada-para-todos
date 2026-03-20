@@ -1,0 +1,5 @@
+﻿Código del ámbito,Ámbito,Código del área (M49),Área,Código del elemento,Elemento,Código del producto,Producto,Código del año,Año,Edición,Unidad,Valor,Símbolo,Descripción del Símbolo
+"CAHD","Costo y asequibilidad de una dieta saludable (CoAHD)","170","Colombia","6205","Valor","70041","Cost of a healthy diet (CoHD), LCU per person per day","2024","2024","Julio 2025 (Informe SOFI)","UML/persona/día","7561","E","Valor estimado"
+"CAHD","Costo y asequibilidad de una dieta saludable (CoAHD)","170","Colombia","6226","Valor","70040","Cost of a healthy diet (CoHD), PPP dollar per person per day","2024","2024","Julio 2025 (Informe SOFI)","Int$ (PPP) per person per day","4.67","E","Valor estimado"
+"CAHD","Costo y asequibilidad de una dieta saludable (CoAHD)","170","Colombia","6121","Valor","7005","Prevalence of unaffordability (PUA), percent","2024","2024","Julio 2025 (Informe SOFI)","%","36.1","E","Valor estimado"
+"CAHD","Costo y asequibilidad de una dieta saludable (CoAHD)","170","Colombia","6132","Valor","7006","Number of people unable to afford a healthy diet (NUA), million","2024","2024","Julio 2025 (Informe SOFI)","millones de No.","19.1","E","Valor estimado"
