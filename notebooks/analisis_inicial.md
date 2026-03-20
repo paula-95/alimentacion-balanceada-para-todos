@@ -22,3 +22,9 @@ Incluye indicadores como:
 - País (Colombia)
 
 Este paso permite entender qué variables están disponibles antes de comenzar el análisis.
+
+## 3. Columnas del archivo
+
+En esta sección se listarán las columnas presentes en el archivo CSV y una breve descripción de cada una. Esto permitirá entender qué información está disponible para el análisis.
+
+(En el siguiente paso revisaremos el archivo y completaremos esta lista.)
