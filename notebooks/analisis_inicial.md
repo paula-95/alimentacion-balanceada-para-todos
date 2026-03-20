@@ -53,3 +53,15 @@ Los indicadores presentes en el archivo FAOSTAT (columna Product) son:
 - Number of people unable to afford a healthy diet (NUA), million
 
 Estos indicadores permiten analizar el costo y la asequibilidad de una dieta saludable en Colombia.
+
+## 5. Revisión de los valores reportados
+
+En esta sección se revisarán los valores numéricos asociados a cada indicador, según la columna *Value*. 
+Esto permitirá identificar:
+
+- El costo de una dieta saludable en moneda local (LCU)
+- El costo en dólares internacionales PPP
+- La prevalencia de no asequibilidad (PUA)
+- El número de personas que no pueden pagar una dieta saludable (NUA)
+
+En el siguiente paso se listarán los valores exactos presentes en el archivo.
