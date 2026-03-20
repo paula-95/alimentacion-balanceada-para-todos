@@ -28,3 +28,18 @@ Este paso permite entender qué variables están disponibles antes de comenzar e
 En esta sección se listarán las columnas presentes en el archivo CSV y una breve descripción de cada una. Esto permitirá entender qué información está disponible para el análisis.
 
 (En el siguiente paso revisaremos el archivo y completaremos esta lista.)
+Las columnas presentes en el archivo FAOSTAT son: 
+-Scope Code
+-Scope	
+-Area Code (M49)
+-Area	
+-Element Code
+-Item	
+-Product Code
+-Product Year Code
+-Year	
+-Edition	
+-Unity	
+-Value	
+-Symbol	
+-Description of the Symbol
