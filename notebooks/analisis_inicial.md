@@ -27,7 +27,7 @@ Este paso permite entender qué variables están disponibles antes de comenzar e
 
 En esta sección se listarán las columnas presentes en el archivo CSV y una breve descripción de cada una. Esto permitirá entender qué información está disponible para el análisis.
 
-(En el siguiente paso revisaremos el archivo y completaremos esta lista.)
+
 Las columnas presentes en el archivo FAOSTAT son: 
 -Scope Code
 -Scope	
@@ -43,3 +43,12 @@ Las columnas presentes en el archivo FAOSTAT son:
 -Value	
 -Symbol	
 -Description of the Symbol
+## 4. Indicadores disponibles
+
+En esta sección se identificarán los indicadores presentes en el archivo FAOSTAT según la columna *Product*. 
+Estos indicadores incluyen, por ejemplo:
+
+- Cost of a healthy diet (CoHD)
+- Cost of a healthy diet in PPP dollars
+- Prevalence of unaffordability (PUA)
+- Number of people unable to afford a healthy diet (NUA)
