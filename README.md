@@ -28,3 +28,9 @@ Metodologia
 5.Creacion de visualizaciones para interpretar los resultados.
 6.Elaboracion de conclusiones sobre la asequibilidad de una dieta saludable.
 
+Resultados(pendiente)
+*Graficos sobre el costo de una dieta saludable.
+*Indicadores de asequibilidad
+*Comparaciones relevantes
+*Interpretacion de los resultados
+
