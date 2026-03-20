@@ -9,3 +9,16 @@ En esta sección revisaremos:
 - Columnas disponibles
 - Tipos de datos
 - Primeras observaciones
+## 2. Descripción del archivo FAOSTAT
+
+El archivo contiene información del dominio CoAHD (Costo y asequibilidad de una dieta saludable). 
+Incluye indicadores como:
+
+- Número de personas que no pueden pagar una dieta saludable (NUA)
+- Prevalencia de no asequibilidad (PUA, %)
+- Costo de una dieta saludable en moneda local (CoHD)
+- Costo de una dieta saludable en dólares internacionales PPP
+- Año de referencia
+- País (Colombia)
+
+Este paso permite entender qué variables están disponibles antes de comenzar el análisis.
