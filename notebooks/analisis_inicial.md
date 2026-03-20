@@ -45,10 +45,11 @@ Las columnas presentes en el archivo FAOSTAT son:
 -Description of the Symbol
 ## 4. Indicadores disponibles
 
-En esta sección se identificarán los indicadores presentes en el archivo FAOSTAT según la columna *Product*. 
-Estos indicadores incluyen, por ejemplo:
+Los indicadores presentes en el archivo FAOSTAT (columna Product) son:
 
-- Cost of a healthy diet (CoHD)
-- Cost of a healthy diet in PPP dollars
-- Prevalence of unaffordability (PUA)
-- Number of people unable to afford a healthy diet (NUA)
+- Cost of a healthy diet (CoHD), LCU per person per day
+- Cost of a healthy diet (CoHD), PPP dollar per person per day
+- Prevalence of unaffordability (PUA), percent
+- Number of people unable to afford a healthy diet (NUA), million
+
+Estos indicadores permiten analizar el costo y la asequibilidad de una dieta saludable en Colombia.
