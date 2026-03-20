@@ -19,3 +19,12 @@ Archivo utilizado:
 FAOSTAT_data_es_3-20-2026.csv
 año: 2024
 Pais:Colombia
+
+Metodologia 
+1.Descarga de datos desde FAOSTAT(dominio CoAHD).
+2.Seleccion de indicadores relevantes para Colombia.
+3.Limpieza y organizacion del archivo CSV
+4.Analisis descriptivo de los indicadores principales.
+5.Creacion de visualizaciones para interpretar los resultados.
+6.Elaboracion de conclusiones sobre la asequibilidad de una dieta saludable.
+
