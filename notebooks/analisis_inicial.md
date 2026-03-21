@@ -77,3 +77,20 @@ En esta sección se realizará una interpretación de los valores reportados, co
 
 Este análisis permitirá contextualizar los resultados y preparar el terreno para visualizaciones y conclusiones posteriores.
 
+### Interpretación de los indicadores
+
+Los valores reportados por FAOSTAT para Colombia en 2024 permiten realizar un análisis preliminar sobre el costo y la asequibilidad de una dieta saludable:
+
+1. **Costo en moneda local (7561 pesos por persona por día)**  
+   Este valor indica que, para que una persona pueda acceder a una dieta saludable, necesita aproximadamente 7561 pesos diarios. Para un hogar de cuatro personas, esto equivaldría a más de 900 000 pesos mensuales solo en alimentación saludable. Esto sugiere que el costo puede representar una carga significativa para muchos hogares.
+
+2. **Costo en dólares internacionales PPP (4.67 Int$ por persona por día)**  
+   Esta medida permite comparar el costo de una dieta saludable entre países. Un valor de 4.67 Int$ ubica a Colombia en un nivel de costo moderado-alto dentro de la región. Aunque el valor parece bajo en dólares, la capacidad adquisitiva interna es lo que determina la asequibilidad real.
+
+3. **Prevalencia de no asequibilidad (36.1%)**  
+   Más de un tercio de la población colombiana no puede pagar una dieta saludable. Este porcentaje refleja una brecha importante entre el costo de una alimentación adecuada y los ingresos disponibles de los hogares.
+
+4. **Número de personas que no pueden pagar una dieta saludable (19.1 millones)**  
+   Este valor cuantifica la magnitud del problema: casi 20 millones de personas en Colombia no tienen los recursos económicos suficientes para acceder a una dieta saludable. Esto tiene implicaciones directas en nutrición, salud pública y desigualdad.
+
+En conjunto, estos indicadores muestran que, aunque el costo absoluto de una dieta saludable puede parecer moderado, la asequibilidad es un desafío significativo para una parte importante de la población colombiana.
