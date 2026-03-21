@@ -65,3 +65,15 @@ Esto permitirá identificar:
 - El número de personas que no pueden pagar una dieta saludable (NUA)
 
 En el siguiente paso se listarán los valores exactos presentes en el archivo.
+
+## 6. Análisis inicial de los indicadores
+
+En esta sección se realizará una interpretación de los valores reportados, con el fin de comprender:
+
+- El nivel de costo de una dieta saludable en Colombia
+- La asequibilidad para la población
+- La magnitud del número de personas afectadas
+- La relación entre los indicadores (CoHD, PUA, NUA)
+
+Este análisis permitirá contextualizar los resultados y preparar el terreno para visualizaciones y conclusiones posteriores.
+
