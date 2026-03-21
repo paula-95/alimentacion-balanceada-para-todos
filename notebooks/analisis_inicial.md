@@ -115,3 +115,4 @@ Este gráfico mostrará la diferencia entre:
 - Cost of a healthy diet (CoHD), PPP dollar per person per day
 
 El objetivo es visualizar cómo cambia el costo dependiendo de la unidad de medida.
+
