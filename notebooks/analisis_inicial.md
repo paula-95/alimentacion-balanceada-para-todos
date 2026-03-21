@@ -106,3 +106,12 @@ Las visualizaciones ayudarán a:
 - Facilitar la interpretación de los resultados para audiencias no técnicas
 
 Los gráficos se generarán en pasos posteriores.
+
+### Gráfico 1: Comparación del costo de una dieta saludable (LCU vs PPP)
+
+Este gráfico mostrará la diferencia entre:
+
+- Cost of a healthy diet (CoHD), LCU per person per day
+- Cost of a healthy diet (CoHD), PPP dollar per person per day
+
+El objetivo es visualizar cómo cambia el costo dependiendo de la unidad de medida.
