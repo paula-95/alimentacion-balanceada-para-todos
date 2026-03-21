@@ -94,3 +94,15 @@ Los valores reportados por FAOSTAT para Colombia en 2024 permiten realizar un an
    Este valor cuantifica la magnitud del problema: casi 20 millones de personas en Colombia no tienen los recursos económicos suficientes para acceder a una dieta saludable. Esto tiene implicaciones directas en nutrición, salud pública y desigualdad.
 
 En conjunto, estos indicadores muestran que, aunque el costo absoluto de una dieta saludable puede parecer moderado, la asequibilidad es un desafío significativo para una parte importante de la población colombiana.
+
+## 7. Visualizaciones
+
+En esta sección se incluirán gráficos que permitan representar de manera clara los indicadores analizados. 
+Las visualizaciones ayudarán a:
+
+- Comparar los costos en LCU y en dólares PPP
+- Observar la magnitud de la prevalencia de no asequibilidad (PUA)
+- Representar el número de personas que no pueden pagar una dieta saludable (NUA)
+- Facilitar la interpretación de los resultados para audiencias no técnicas
+
+Los gráficos se generarán en pasos posteriores.
